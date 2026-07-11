@@ -38,12 +38,12 @@ This GitHub documents my hands-on learning, home labs, technical projects, scrip
 
 ## Current Projects
 * [🚧 Windows Server Security & Administration Lab](https://www.linkedin.com/feed/update/urn:li:share:7481559547472531457/) — *Phase 4 Complete: Engineered custom Defender firewall rules, configured least-privilege security groups, and forensically tracked Event ID 4625.*
-🚧 Networking Lab
-🚧 Azure Lab
-🚧 Linux Administration Lab
-🚧 PowerShell Scripts
-🚧 Python Projects
-🚧 Home Lab Documentation
+* 🚧 Networking Lab
+* 🚧 Azure Lab
+* 🚧 Linux Administration Lab
+* 🚧 PowerShell Scripts
+* 🚧 Python Projects
+* 🚧 Home Lab Documentation
 ---
 
 ## Current Goal
