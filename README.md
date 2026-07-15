@@ -2,60 +2,44 @@
 
 ## IT Professional | Cybersecurity Instructor | Infrastructure & Technical Support
 
-Welcome to my professional IT portfolio.
+Welcome to my professional IT portfolio. 
 
-This GitHub documents my hands-on learning, home labs, technical projects, scripting, and infrastructure work as I continue developing my skills in systems administration, networking, cybersecurity, cloud technologies, and automation.
+This repository serves as a centralized hub for my enterprise lab documentation, technical projects, and infrastructure deployments as I continue advancing my skills in systems administration, network engineering, cybersecurity, and cloud operations.
 
----
+## 📜 Certifications
+* CompTIA Security+
+* CompTIA Network+
+* CompTIA A+
+* Microsoft Azure Fundamentals (AZ-900)
+* Microsoft Azure AI Fundamentals (AI-900)
+* Linux Essentials
+* Google Cybersecurity Professional Certificate
+* Cisco SOC Certificate
 
-## Certifications
+## 🛠️ Technical Competencies
+* Windows Server Administration
+* Active Directory Domain Services (AD DS)
+* Enterprise Networking (Routing/Switching)
+* Cybersecurity & SIEM (Splunk)
+* Linux Server Administration
+* Microsoft Azure
+* PowerShell & Python Scripting
+* Technical Documentation (SOPs)
 
-- CompTIA Security+
-- CompTIA Network+
-- CompTIA A+
-- Microsoft Azure Fundamentals (AZ-900)
-- Microsoft Azure AI Fundamentals (AI-900)
-- Linux Essentials
-- Google Cybersecurity Professional Certificate
-- Cisco SOC Certificate
+## 🚀 Featured Enterprise Projects
 
----
+* [**Windows Server Security & Active Directory (AD DS)**](https://github.com/desmondeverett/Windows-Administration) — 🟢 *Completed:* Provisioned Server 2022, deployed centralized identity management (AD DS), configured advanced edge firewalls, and established strict local IAM policies.
+* [**Splunk SIEM Enterprise Deployment**](https://github.com/desmondeverett/Splunk-SIEM-Enterprise-Deployment) — 🟢 *Completed:* Built a headless Linux SIEM engine, configured Universal Forwarder log ingestion across a NAT network, and executed active threat hunting against simulated brute-force attacks.
+* [**Network Routing & Switching Architecture**](https://github.com/desmondeverett/Network-Routing-Switching) — 🟢 *Completed:* Engineered a multi-site network implementing high availability (STP/HSRP), Inter-VLAN routing, and secure IPsec Site-to-Site VPN boundaries.
+* [**Linux Administration & LAMP Stack**](https://github.com/desmondeverett/Linux-Administration) — 🟢 *Completed:* Deployed Debian-based web servers, integrated MariaDB backends, automated cron backups, and hardened remote access using Fail2ban.
+* [**Python Automation & Application Development**](https://github.com/desmondeverett/Python-Scripts) — 🟢 *Completed:* Developed REST API-integrated web dashboards and object-oriented command-line interface (CLI) applications.
+* **Azure & Cloud Infrastructure** — 🚧 *In Progress*
+* **Home Lab Documentation** — 🚧 *In Progress*
 
-## Technical Areas
-
-- Windows Administration
-- Networking
-- Azure
-- Linux
-- Cybersecurity
-- PowerShell
-- Python
-- Technical Documentation
-- Infrastructure
-- Active Directory (Coming Soon)
-
----
-
-## Current Projects
-* [🚧 Windows Server Security & Administration Lab](https://www.linkedin.com/feed/update/urn:li:share:7481559547472531457/) — *Phase 4 Complete: Engineered custom Defender firewall rules, configured least-privilege security groups, and forensically tracked Event ID 4625.*
-* 🚧 Networking Lab
-* 🚧 Azure Lab
-* 🚧 Linux Administration Lab
-* 🚧 PowerShell Scripts
-* 🚧 Python Projects
-* 🚧 Home Lab Documentation
----
-
-## Current Goal
-
+## 🎯 Current Goal
 To continue building enterprise IT skills while pursuing opportunities in:
-
-- Systems Administration
-- Infrastructure Support
-- Technical Support Engineering
-- Cloud Operations
-- Data Center Operations
-
----
-
-Thanks for visiting my portfolio!
+* Systems Administration
+* Infrastructure Support
+* Technical Support Engineering
+* Cloud Operations
+* Data Center Operations
